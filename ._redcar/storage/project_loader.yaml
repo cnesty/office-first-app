@@ -1,0 +1,4 @@
+--- 
+open_files: 
+  - config/application.rb
+  - app/views/layouts/application.html.erb
